@@ -11,6 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/douaa-sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douaa-sayed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/doaas0213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="doaas0213" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/doaa216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doaa216" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@doaas0213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@doaas0213" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duaasayed&show_icons=true&locale=en" alt="duaasayed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duaasayed&" alt="duaasayed" /></p>
+
 
