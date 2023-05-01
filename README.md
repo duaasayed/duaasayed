@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doaa Sayed</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duaasayed&label=Profile%20views&color=0e75b6&style=flat" alt="duaasayed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duaasayed" alt="duaasayed" /></a> </p>
-
 - 🌱 I’m currently learning **Django, Django REST, Docker, Linux, React**
 
 - 📫 How to reach me **doaas0213@gmail.com**
